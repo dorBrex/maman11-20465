@@ -1,0 +1,22 @@
+
+Starting the program in order to find the inner product of 2 vectors
+
+Please insert the size (length) of the vector
+The vectors's length will be 10
+
+Insert 2 vector's values - insert a number and click enter,
+each enter will save the last value you entered in the vector's values, till you reach the limit of values in a vector
+
+Please enter the U vector's values
+
+The values of the U vector are:
+2 3 2 3 2 3 4 5 6 5 
+Please enter the V vector's values
+
+The values of the V vector are:
+1 2 3 4 5 6 7 8 9 1 
+Calculating the inner product for U and V vectors
+
+The inner product for U and V vectors is: 181
+
+End of program run

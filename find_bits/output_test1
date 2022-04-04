@@ -1,0 +1,12 @@
+
+Hello user, please enter a value for 2 unsigned long values in the next rows.
+This program will calculate the similarity of the turned on bits
+between the two values and will return to you the number of turned on bits in similar spots in those 2 values 
+
+Please enter a number for x: The number you just entered is: 127
+This number in binary is: 0000000000000000000000000000000000000000000000000000000001111111
+Please enter a number for y: The number you just entered is: 95
+This number in binary is: 0000000000000000000000000000000000000000000000000000000001011111
+
+Starting to count similar turned-on bits...
+There are 6 similar turned on bits between x and y binary values!
